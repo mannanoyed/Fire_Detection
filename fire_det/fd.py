@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-#video_file = "video_1.mp4"
+#video_file = "video.mov"
 video = cv2.VideoCapture("video.mov")
 
 while True:
